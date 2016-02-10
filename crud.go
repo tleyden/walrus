@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/couchbase/sg-bucket"
+	"github.com/couchbaselabs/sg-bucket"
 )
 
 // The persistent portion of a lolrus object (the stuff that gets archived to disk.)

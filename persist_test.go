@@ -13,8 +13,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/couchbase/sg-bucket"
 	"github.com/couchbaselabs/go.assert"
+	"github.com/couchbaselabs/sg-bucket"
 )
 
 const kTestPath = "/tmp/lolrus_test_save.walrus"

@@ -14,8 +14,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/couchbase/sg-bucket"
 	"github.com/couchbaselabs/go.assert"
+	"github.com/couchbaselabs/sg-bucket"
 )
 
 func setJSON(bucket sgbucket.Bucket, docid string, jsonDoc string) error {

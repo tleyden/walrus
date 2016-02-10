@@ -3,8 +3,8 @@ package walrus
 import (
 	"testing"
 
-	"github.com/couchbase/sg-bucket"
 	"github.com/couchbaselabs/go.assert"
+	"github.com/couchbaselabs/sg-bucket"
 )
 
 func TestBackfill(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/couchbase/sg-bucket"
+	"github.com/couchbaselabs/sg-bucket"
 )
 
 // How long to wait after an in-memory change before saving to disk

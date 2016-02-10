@@ -8,7 +8,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/couchbase/sg-bucket"
+	"github.com/couchbaselabs/sg-bucket"
 )
 
 // A single view stored in a lolrus.
